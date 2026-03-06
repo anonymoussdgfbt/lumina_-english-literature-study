@@ -1,0 +1,5 @@
+{
+  "name": "Lumina: English Literature Study",
+  "description": "A sophisticated tool for deep reading and mastering English literature with AI-powered linguistic analysis.",
+  "requestFramePermissions": ["camera"]
+}
